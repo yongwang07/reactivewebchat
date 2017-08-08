@@ -1,1 +1,1 @@
-# reactivewebchat
+Full stack reactive web chat
